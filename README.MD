@@ -4,6 +4,10 @@ New way to make constant in Python
 
 ## API Reference
 
+```python
+from pyconstantt import constant
+```
+
 #### Set Item
 
 ```python
@@ -31,6 +35,7 @@ Install my-project with PyPl
 ## Badge
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![Downloads](https://img.shields.io/pypi/dm/pyconstantt)
 
 ## Demo
 

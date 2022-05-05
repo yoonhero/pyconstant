@@ -9,8 +9,8 @@ README = (HERE / "README.md").read_text()
 
 
 setup(
-    name='pyconstant',
-    version='1.0.0',
+    name='pyconstantt',
+    version='1.0.1',
     license='MIT',
     description="New way to make constant in Python",
     long_description=README,
