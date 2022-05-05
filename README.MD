@@ -25,7 +25,7 @@ from pyconstantt import constant
 Install my-project with PyPl
 
 ```bash
-  pip install pyconstant
+  pip install pyconstantt
 ```
 
 ## Authors
